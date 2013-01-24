@@ -1,0 +1,3 @@
+[submodule "ruhoh"]
+	path = ruhoh
+	url = git@github.com:kuantkid/blog.git
